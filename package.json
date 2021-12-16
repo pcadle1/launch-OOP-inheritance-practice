@@ -1,0 +1,7 @@
+{
+  "name": "magical-creature-inheritance-js",
+  "version": "1.0.0",
+  "main": "src/main.js",
+  "license": "MIT",
+  "type": "module"
+}
